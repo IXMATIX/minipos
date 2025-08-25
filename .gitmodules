@@ -1,0 +1,6 @@
+[submodule "minipos-frontend"]
+	path = minipos-frontend
+	url = https://github.com/IXMATIX/minipos-frontend.git
+[submodule "minipos-backend"]
+	path = minipos-backend
+	url = https://github.com/IXMATIX/minipos-backend.git
